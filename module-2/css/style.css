@@ -87,7 +87,7 @@
     padding: 16px;
      float: left;
     text-align: center;
-    background-color: #FF4000;
+    background-color: #FF4080;
     float: right;
     border-style: solid;
       font-size: 1.50em;
@@ -95,7 +95,7 @@
   .card2{
     padding: 16px;
     text-align: center;
-    background-color: #FE2E64;
+    background-color: #fff589;
     float: right;
     border-style: solid;
     font-size: 1.50em;
@@ -104,7 +104,7 @@
   .card3{
     padding: 16px;
     text-align: center;
-    background-color: #F3F781;
+    background-color: #F28781;
     float: right;
     border-style: solid;
     font-size: 1.50em;
